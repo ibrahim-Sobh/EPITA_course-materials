@@ -1,5 +1,0 @@
-writing whatever I want in this file...and adding another information. Let us skip two lines: 
-
-Let us add tabulates: 		End.
-
-Adding an information without erasing the previous informations

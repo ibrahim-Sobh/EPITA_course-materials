@@ -1,0 +1,579 @@
+Month,Year,Title,Topic
+continuous,continuous,string,string
+,,meta,meta
+3.0,2010.0,"""Momma's Got the Pill"": How Anthony Comstock and Griswold v. Connecticut Shaped US Childbearing",ML
+12.0,1953.0,"""Realism"" In Policy Espousal",ML
+2.0,1926.0,"""The Worker in Modern Economic Society""",ML
+5.0,2014.0,(Dis)Organization and Success in an Economics MOOC,ML
+10.0,1974.0,1974 Directory of Members,ML
+12.0,1997.0,A,ML
+8.0,2004.0,A Cognitive Hierarchy Model of Games,ML
+12.0,2006.0,A Dual-Self Model of Impulse Control,ML
+5.0,2015.0,A Measure of Robustness to Misspecification,ML
+7.0,1955.0,A Model for Optimizing Production by Reference to Cost Surrogates,ML
+9.0,1969.0,A Model of an Agrarian Economy with Nonagricultural Activities,ML
+6.0,1991.0,A Natural Experiment in the Organization of Entry-Level Labor Markets: Regional Markets for New Physicians and Surgeons in the United Kingdom,ML
+7.0,2018.0,"A ONE COVARIATE AT A TIME, MULTIPLE TESTING APPROACH TO VARIABLE SELECTION IN HIGH-DIMENSIONAL LINEAR REGRESSION MODELS",ML
+11.0,1956.0,A Probabilistic Theory of Consumer Behavior,ML
+11.0,1972.0,A Radical Analysis of Welfare Economics and Individual Development,ML
+5.0,2016.0,A Randomized Assessment of Online Learning,ML
+9.0,2000.0,A Reality Check for Data Snooping,ML
+5.0,2017.0,A STRUCTURAL MODEL OF DENSE NETWORK FORMATION,ML
+4.0,1994.0,A Simulation Estimator for Dynamic Models of Discrete Choice,ML
+11.0,2013.0,A THEORY OF DISAGREEMENT IN REPEATED GAMES WITH BARGAINING,ML
+5.0,2017.0,Abducting Economics,ML
+2.0,1929.0,"Academic Economics in Present Russia Gelesnoff, Grundzuge",ML
+7.0,2015.0,"Acquisitions, Productivity, and Profitability: Evidence from the Japanese Cotton Spinning Industry",ML
+2.0,1977.0,Adam Smith on Human Capital,ML
+5.0,1965.0,Adam Smith's Philosophy of Science,ML
+9.0,2005.0,Adaptive Heuristics,ML
+3.0,1912.0,"Address of President Taft: At the Luncheon of the Economic Association, at the Raleigh Hotel, Washington, D. C., December 28, 1911",ML
+11.0,1946.0,Admission Policies of Labor Unions,ML
+9.0,1964.0,Aggregate Production Functions and Medium-Range Growth Projections,ML
+12.0,1951.0,Agricultural Productivity and Economic Development in Japan,ML
+11.0,1955.0,Alfred Marshall on Economic History and Historical Development,ML
+8.0,1976.0,Alfred Marshall: Victorian Relevance for Modern Economics,ML
+2.0,1993.0,Allocative Efficiency of Markets with Zero-Intelligence Traders: Market as a Partial Substitute for Individual Rationality,ML
+9.0,1942.0,Alphabetical List of Members,ML
+7.0,1957.0,Alphabetical List of Members,ML
+1.0,1949.0,"Alphabetical List of Members (as of June 15, 1948)",ML
+12.0,1919.0,American Minimum Wage Laws at Work,ML
+2.0,1977.0,American Technology: Imported or Indigenous?,ML
+5.0,1965.0,An Adaptive Production Function,ML
+4.0,1919.0,An Appraisal of Clay's Economics,ML
+5.0,1983.0,An Entrepreneurial Problem,ML
+5.0,1968.0,An Experiment with TIPS: A Computer-aided Instructional System for Undergraduate Education,ML
+10.0,1951.0,An Experimental Measurement of Utility,ML
+1.0,1887.0,An Historical Sketch of the Knights of Labor,ML
+9.0,1988.0,Annual Meeting the American Economic Association,ML
+4.0,1941.0,Anthropology and Economics,ML
+9.0,2001.0,Any Inspection Is Manipulable,ML
+9.0,1995.0,Appropriation and Efficiency: A Revision of the First Theorem of Welfare Economics,ML
+5.0,1991.0,Artificial Adaptive Agents in Economic Theory,ML
+1.0,2013.0,BELIEF DISAGREEMENTS AND COLLATERAL CONSTRAINTS,ML
+9.0,1981.0,Back Matter,ML
+12.0,2001.0,Back Matter,ML
+4.0,1962.0,Back Matter,ML
+3.0,1967.0,Back Matter,ML
+3.0,2014.0,Back Matter,ML
+9.0,1990.0,Back Matter,ML
+3.0,1968.0,Back Matter,ML
+3.0,2007.0,Back Matter,ML
+3.0,1950.0,Back Matter,ML
+3.0,1992.0,Back Matter,ML
+10.0,1994.0,Back Matter,ML
+10.0,1961.0,Back Matter,ML
+12.0,1995.0,Back Matter,ML
+10.0,1991.0,Back Matter,ML
+5.0,2004.0,Back Matter,ML
+3.0,1974.0,Back Matter,ML
+7.0,2013.0,Back Matter,ML
+4.0,1972.0,Back Matter,ML
+10.0,1960.0,Back Matter,ML
+4.0,1974.0,Back Matter,ML
+12.0,1987.0,Back Matter,ML
+12.0,1999.0,Back Matter,ML
+8.0,2018.0,Back Matter,ML
+5.0,1997.0,Back Matter,ML
+5.0,1992.0,Back Matter,ML
+5.0,2007.0,Back Matter,ML
+12.0,1986.0,Back Matter,ML
+10.0,2017.0,Back Matter,ML
+1.0,1975.0,Back Matter,ML
+5.0,2004.0,Back Matter,ML
+9.0,2001.0,Back Matter,ML
+7.0,2018.0,Back Matter,ML
+9.0,1983.0,Back Matter,ML
+9.0,1989.0,Back Matter,ML
+3.0,1976.0,Back Matter,ML
+10.0,1979.0,Back Matter,ML
+7.0,2014.0,Back Matter,ML
+11.0,2013.0,Back Matter,ML
+5.0,2014.0,Back Matter,ML
+9.0,2013.0,Back Matter,ML
+11.0,2009.0,Bayesian Estimation of Dynamic Discrete Choice Models,ML
+7.0,2016.0,"Behavioral Economics: Past, Present, and Future",ML
+6.0,2002.0,Behavioral Macroeconomics and Macroeconomic Behavior,ML
+4.0,1961.0,Behavioristic Foundations of Utility,ML
+10.0,1975.0,"Bentham or Bergson? Finite Sensibility, Utility Functions and Social Welfare Functions",ML
+12.0,1957.0,Biographical Directory of Members of Econometric Society,ML
+12.0,1985.0,Biographical Listing of Members,ML
+12.0,1993.0,Biographical Listing of Members,ML
+12.0,1981.0,Biographical Listing of Members,ML
+1.0,1970.0,Biographical Listings of Members,ML
+11.0,2010.0,CONFLICT AND DETERRENCE UNDER STRATEGIC RISK,ML
+5.0,1974.0,Capital Controversies: Ancient and Modern,ML
+5.0,1908.0,"Capital, Interest, and Diminishing Returns",ML
+11.0,1921.0,Cassel's Theoretische Sozialökonomie,ML
+10.0,2017.0,Certification and Market Transparency,ML
+6.0,1939.0,"Changes in the Nation's Labor Supply, 1930-1937",ML
+11.0,1925.0,Chapters on Machinery and Labor,ML
+5.0,1925.0,Chapters on Machinery and Labor,ML
+11.0,1981.0,"Cheap Labor and Southern Textiles, 1880-1930",ML
+8.0,2011.0,Climbing atop the Shoulders of Giants: The Impact of Institutions on Cumulative Research,ML
+5.0,1985.0,Clio and the Economics of QWERTY,ML
+6.0,2003.0,Collusive Practices in Repeated English Auctions: Experimental Evidence on Bidding Rings,ML
+6.0,1962.0,Comment,ML
+3.0,1921.0,Comments of An Ore Engineer,ML
+1.0,2000.0,Communication and Coordination in Social Networks,ML
+5.0,1961.0,Communist China's Statistical System: 1949-57,ML
+12.0,2014.0,Competing for Consumer Inattention,ML
+10.0,2014.0,Competition and Ideological Diversity: Historical Evidence from US Newspapers,ML
+11.0,1985.0,Competitive Value When Only Labor is Scarce,ML
+2.0,2012.0,Compulsory Licensing: Evidence from the Trading with the Enemy Act,ML
+5.0,2010.0,Computer Mediated Transactions,ML
+1.0,2011.0,Consideration Sets and Competitive Marketing,ML
+12.0,2008.0,Consumption Inequality and Partial Insurance,ML
+12.0,2008.0,Contextual Inference in Markets: On the Informational Content of Product Lines,ML
+11.0,1995.0,Cooperation and Effective Computability,ML
+9.0,2015.0,"Cooperation, but No Reciprocity: Individual Strategies in the Repeated Prisoner's Dilemma",ML
+3.0,1984.0,Coping with Complexity: The Adaptive Value of Changing Utility,ML
+5.0,2017.0,Core Determining Class and Inequality Selection,ML
+2.0,2013.0,Cultural Change as Learning: The Evolution of Female Labor Force Participation over a Century,ML
+6.0,1934.0,Currency Inflation: Its Nature and Implications,ML
+1.0,2012.0,DEFINABLE AND CONTRACTIBLE CONTRACTS,ML
+2.0,2013.0,DOES MANAGEMENT MATTER? EVIDENCE FROM INDIA,ML
+11.0,2012.0,DYNAMIC GAMES WITH ASYMMETRIC INFORMATION: A FRAMEWORK FOR EMPIRICAL WORK,ML
+3.0,1977.0,De Gustibus Non Est Disputandum,ML
+5.0,1983.0,"De-Skilling, Skilled Commodities, and the NICs' Emerging Competitive Advantage",ML
+8.0,1993.0,Decomposing Learning by Doing in New Plants,ML
+4.0,1996.0,Delay and Cycles,ML
+6.0,1953.0,Democracy in Labor Unions,ML
+5.0,1991.0,Designing Economic Agents that Act like Human Agents: A Behavioral Approach to Bounded Rationality,ML
+5.0,2011.0,Did Credit Rating Agencies Make Unbiased Assumptions on CDOs?,ML
+5.0,1991.0,Diffusion of Development: Post-World War II Convergence Among Advanced Industrial Nations,ML
+3.0,1944.0,Diminishing Returns from Investment,ML
+10.0,2002.0,Directed Technical Change,ML
+5.0,1972.0,Discussion,ML
+5.0,1953.0,Discussion,ML
+5.0,1955.0,Discussion,ML
+5.0,1958.0,Discussion,ML
+5.0,1949.0,Discussion,ML
+5.0,1968.0,Discussion,ML
+5.0,1968.0,Discussion,ML
+5.0,1946.0,Discussion,ML
+5.0,1978.0,Disembodied Technical Progress: Does Employee Participation In Decision Making Contribute To Change and Growth?,ML
+6.0,1980.0,Do Union Members Receive Compensating Wage Differentials?,ML
+9.0,1968.0,Doctoral Dissertations,ML
+12.0,1974.0,Doctoral Dissertations,ML
+6.0,1913.0,"Documents, Reports and Legislation",ML
+2.0,2017.0,Does Extending Unemployment Benefits Improve Job Quality?,ML
+2.0,2007.0,Does Head Start Improve Children's Life Chances? Evidence from a Regression Discontinuity Design,ML
+5.0,2017.0,Does Machine Learning Automate Moral Hazard and Error?,ML
+5.0,2017.0,Double/Debiased/Neyman Machine Learning of Treatment Effects,ML
+5.0,1952.0,Dynamic Aspects of Oligopoly Price Theory,ML
+12.0,1985.0,Early Progress in Estimating Quantitative Economic Relationships in America,ML
+3.0,1989.0,Econometrics and the Design of Economic Reform,ML
+2.0,1911.0,Economic History and Philology,ML
+2.0,2000.0,Economic Imperialism,ML
+5.0,2008.0,"Economic Insights from ""Neuroeconomic"" Data",ML
+5.0,1991.0,Economic Integration and Endogenous Growth,ML
+5.0,2017.0,Economic Research Evolves: Fields and Styles,ML
+1.0,1918.0,Economics and Modern Psycholoy: I,ML
+5.0,1968.0,"Economics of Inquiring, Communicating, Deciding",ML
+2.0,1949.0,Economics of Scheduling for Industrial Mobilization,ML
+3.0,1944.0,Economy and Democracy,ML
+10.0,1962.0,Education and Investment in Human Capital,ML
+2.0,1970.0,Education in Production,ML
+12.0,1999.0,"Effort, Wages, and the International Division of Labor",ML
+12.0,1999.0,Egalitarianism and the Returns to Education during the Great Transformation of American Education,ML
+12.0,1984.0,Eighty-First List of Doctoral Dissertations in Political Economy in American Universities and Colleges,ML
+12.0,1986.0,Eighty-Third List of Doctoral Dissertations in Economics in American Universities and Colleges,ML
+9.0,1999.0,Emergence of Money as a Medium of Exchange: An Experimental Study,ML
+2.0,1966.0,Employment and Industrialization in Developing Countries,ML
+11.0,1950.0,Employment as an Element in the Wage Bargain,ML
+1.0,1969.0,Endogenous Technical Progress and Steady Growth,ML
+5.0,1998.0,Engaging Students in Quantitative Analysis with Short Case Examples from the Academic and Popular Press,ML
+9.0,1989.0,"Entry, Exit, and Diffusion with Learning by Doing",ML
+5.0,2014.0,Equalizing Superstars: The Internet and the Democratization of Education,ML
+5.0,1969.0,Equilibrium Growth in a Model with Economic Obsolescence of Machines,ML
+2.0,1991.0,Equilibrium Wage Dispersion and Interindustry Wage Differentials,ML
+5.0,2017.0,Estimating Average Treatment Effects: Supplementary Analyses and Remaining Challenges,ML
+9.0,2007.0,Estimating Dynamic Models of Imperfect Competition,ML
+3.0,2008.0,Evolution and Intelligent Design,ML
+12.0,1980.0,"Experience, Performance, and Earnings",ML
+7.0,1999.0,Experienced-Weighted Attraction Learning in Normal Form Games,ML
+4.0,1966.0,"Extensions of Arrow's ""Learning by Doing""",ML
+3.0,2017.0,FORECASTING WITH MODEL UNCERTAINTY: REPRESENTATIONS AND RISK REDUCTION,ML
+12.0,2005.0,Fact-Free Learning,ML
+6.0,1941.0,"Farm-Making Costs and the ""Safety Valve"": 1850-60",ML
+8.0,1919.0,Federal Operation of Railroads During the War,ML
+11.0,2014.0,Fertility Transitions Along the Extensive and Intensive Margins,ML
+4.0,1956.0,Firm Progress Ratios,ML
+8.0,1970.0,Fiscal Policy in Latin America,ML
+1.0,1999.0,Foundations of Incomplete Contracts,ML
+4.0,2014.0,Frictionless Technology Diffusion: The Case of Tractors,ML
+5.0,2016.0,Front Matter,ML
+5.0,2017.0,Front Matter,ML
+5.0,2015.0,Front Matter,ML
+10.0,1936.0,Front Matter,ML
+1.0,1966.0,Further Implications of Learning by Doing,ML
+3.0,2008.0,Gambling at Lucky Stores: Empirical Evidence from State Lottery Sales,ML
+12.0,1994.0,Generics and New Goods in Pharmaceutical Price Indexes,ML
+8.0,1993.0,Geographic Localization of Knowledge Spillovers as Evidenced by Patent Citations,ML
+12.0,1957.0,Geographical List of Subscribers,ML
+4.0,1887.0,Gold and Prices Since 1873,ML
+9.0,1953.0,Graduate Education in Economics,ML
+6.0,1998.0,Growth Cycles,ML
+2.0,1970.0,Growth Strategies in Semi-Industrial Countries,ML
+7.0,1994.0,Growth and Unemployment,ML
+12.0,1992.0,Growth in Cities,ML
+9.0,1896.0,"Hadley's ""Economics""",ML
+12.0,2011.0,Happiness and Time Preference: The Effect of Positive Affect in a Random-Assignment Experiment,ML
+4.0,1939.0,Henry Schultz: His Contributions to Economics and Statistics,ML
+10.0,2000.0,Hierarchies and the Organization of Knowledge in Production,ML
+5.0,2014.0,Housing Assignment with Restrictions: Theory and Evidence from Stanford University's Campus,ML
+2.0,2001.0,How Much Did the Liberty Shipbuilders Learn? New Evidence for an Old Case Study,ML
+11.0,1914.0,Human Behavior and Economics: A Survey of Recent Literature,ML
+12.0,2012.0,"Human Capital Prices, Productivity, and Growth",ML
+11.0,2015.0,IDENTIFICATION PROPERTIES OF RECENT PRODUCTION FUNCTION ESTIMATORS,ML
+11.0,2011.0,IDEOLOGICAL SEGREGATION ONLINE AND OFFLINE,ML
+8.0,2010.0,IMPROVED ACCESS TO FOREIGN MARKETS RAISES PLANT-LEVEL PRODUCTIVITY...FOR SOME PLANTS,ML
+1.0,2014.0,ISLAMIC RULE AND THE EMPOWERMENT OF THE POOR AND PIOUS,ML
+6.0,2010.0,Identifying Agglomeration Spillovers: Evidence from Winners and Losers of Large Plant Openings,ML
+9.0,2018.0,In Search of Labor Demand,ML
+5.0,2007.0,Incentives for Managers and Inequality among Workers: Evidence from a Firm-Level Experiment,ML
+7.0,1999.0,Incomplete Contracts: Where Do We Stand?,ML
+12.0,1977.0,"Index to Volumes 21-45, 1953-1977",ML
+2.0,1993.0,Induced Innovation in American Agiculture: A Reconsideration,ML
+1.0,2003.0,Inductive Inference: An Axiomatic Approach,ML
+2.0,1926.0,"Industrial Invention: Heroic, or Systematic?",ML
+5.0,1969.0,"Industrial Research and Development: Characteristics, Costs, and Diffusion of Results",ML
+5.0,1951.0,Industrialism and Cultural Values,ML
+8.0,1961.0,"Information, Expectations and the Theory of the Firm",ML
+8.0,1957.0,Innovation in the Machine Tool Industry,ML
+12.0,1986.0,"Installed Base and Compatibility: Innovation, Product Preannouncements, and Predation",ML
+10.0,2014.0,Instrumental Variables with Unrestricted Heterogeneity and Continuous Treatment,ML
+3.0,1925.0,Intelligence Test Ratings of Occupational Groups,ML
+6.0,2013.0,Intergenerational Occupational Mobility in Great Britain and the United States Since 1850,ML
+10.0,1966.0,International Trade Theory in a Vintage-Capital Model,ML
+12.0,1987.0,Intraindustry Trade: Sources and Effects on Protection,ML
+5.0,1974.0,Introducting Freshmen to the Social System,ML
+7.0,1987.0,Introductory Price as a Signal of Cost in a Model of Repeat Business,ML
+6.0,1993.0,Invention and Bounded Learning by Doing,ML
+8.0,1955.0,"Investment Criteria, Productivity, and Economic Development",ML
+10.0,1962.0,Investment in Human Capital: A Theoretical Analysis,ML
+4.0,1991.0,"Investment under Uncertainty, Irreversibility and the Arrival of Information Over Time",ML
+10.0,1947.0,Irving Fisher and Social Science,ML
+11.0,1927.0,John Bates Clark: Earlier and Later Phases of his Work,ML
+8.0,1950.0,Joseph Alois Schumpeter 1883-1950,ML
+9.0,2015.0,KNIGHTIAN ANALYSIS OF THE VICKREY MECHANISM,ML
+8.0,1974.0,Karl Marx on the Economic Role of Science,ML
+11.0,1976.0,Keynes and Econometrics: On the Interaction between the Macroeconomic Revolutions of the Interwar Period,ML
+8.0,2014.0,LEARNING THROUGH NOTICING,ML
+3.0,2010.0,"LEARNING-BY-DOING, ORGANIZATIONAL FORGETTING, AND INDUSTRY DYNAMICS",ML
+5.0,2016.0,"LEP Language Disability, Immigration Reform, and English-Language Acquisition",ML
+5.0,1955.0,Labor Attitudes Toward Industrialization in Underdeveloped Countries,ML
+6.0,1939.0,Labor Movements of Great Britain and the United States,ML
+1.0,2008.0,Labour Unrest and the Quality of Production: Evidence from the Construction Equipment Resale Market,ML
+7.0,1989.0,Learning Rational Expectations Under Computability Constraints,ML
+7.0,2014.0,Learning Your Comparative Advantages,ML
+6.0,1991.0,Learning and Capacity Expansion under Demand Uncertainty,ML
+9.0,1972.0,Learning and Productivity Change in Metal Products,ML
+11.0,1996.0,Learning by Doing and the Choice of Technology,ML
+5.0,1991.0,Learning by Doing and the Dynamic Effects of International Trade,ML
+1.0,1970.0,Learning-by-Doing and Infant Industry Protection,ML
+7.0,1998.0,Let's Get Real: A Factor Analytical Approach to Disaggregated Business Cycle Dynamics,ML
+10.0,1898.0,"Levasseur's ""L'Ouvrier Américain""",ML
+6.0,1936.0,List of Members,ML
+10.0,1964.0,List of Members of the Econometric Society,ML
+11.0,1990.0,Long Waves and Short Waves: Growth Through Intensive and Extensive Search,ML
+5.0,2017.0,L₂-Boosting for Economic Applications,ML
+5.0,2015.0,Machine Learning Methods for Demand Estimation,ML
+9.0,2002.0,Managing Dynamic Competition,ML
+12.0,2003.0,Maps of Bounded Rationality: Psychology for Behavioral Economics,ML
+2.0,1977.0,Marginal Cost Pricing in the 1930's,ML
+7.0,2018.0,"Marketplaces, Markets, and Market Design",ML
+3.0,1945.0,Marxism and Economics: Sweezy and Robinson,ML
+9.0,2004.0,Measuring Expectations,ML
+7.0,2007.0,Measuring Peer Effects on Youth Smoking Behaviour,ML
+10.0,1918.0,Mercantile and Agricultural Economics,ML
+11.0,2018.0,Mismatch of Talent,ML
+5.0,2008.0,Modeling Macroeconomies as Open-Ended Dynamic Systems of Interacting Agents,ML
+5.0,2016.0,Modernizing Federal Economic Statistics,ML
+3.0,1918.0,Motives in Economic Life,ML
+11.0,1907.0,Municipal Employment of Unemployed Women in London,ML
+1.0,2015.0,NECESSITY IS THE MOTHER OF INVENTION: INPUT SUPPLIES AND DIRECTED TECHNICAL CHANGE,ML
+9.0,2011.0,NONPARAMETRIC INSTRUMENTAL REGRESSION,ML
+4.0,2017.0,Narrative Economics,ML
+5.0,1918.0,"Nassau W. Senior, British Economist, in the Light of Recent Researches: II",ML
+4.0,1966.0,Neoclassical Growth with Fixed Factor Proportions,ML
+7.0,2016.0,Network Structure and the Aggregation of Information: Theory and Evidence from Indonesia,ML
+3.0,1935.0,New Books,ML
+10.0,1910.0,New Publications,ML
+11.0,1992.0,News Notes,ML
+6.0,2013.0,"Nonconvexities, Retirement, and the Elasticity of Labor Supply",ML
+5.0,1967.0,Notes on Marxian Model of Capital Accumulation,ML
+4.0,1923.0,Notes on the Life and Work of Simon Nelson Patten,ML
+12.0,2001.0,"Nursery Cities: Urban Diversity, Process Innovation, and the Life Cycle of Products",ML
+11.0,2012.0,ORGANIZATION AND INFORMATION: FIRMS' GOVERNANCE CHOICES IN RATIONAL-EXPECTATIONS EQUILIBRIUM,ML
+8.0,1961.0,Objective Functions and Models of Corporate Optimization,ML
+2.0,1973.0,On Bernoullian Production Sets,ML
+12.0,1985.0,On Method in U.S. Economics a Century Earlier,ML
+10.0,1952.0,On a Quantitative Method in Production Planning and Scheduling,ML
+3.0,1989.0,On the Covariance Structure of Earnings and Hours Changes,ML
+3.0,1983.0,On the Misuse of Accounting Rates of Return to Infer Monopoly Profits,ML
+7.0,2006.0,On the Nature of Capital Adjustment Costs,ML
+8.0,1996.0,On the Timing and Efficiency of Creative Destruction,ML
+5.0,1995.0,One Quarter of GDP is Persuasion,ML
+9.0,1960.0,Operations Research,ML
+3.0,1994.0,"Opportunism in Multilateral Vertical Contracting: Nondiscrimination, Exclusivity, and Uniformity",ML
+3.0,2000.0,Optimal Adoption of Complementary Technologies,ML
+7.0,2007.0,Optimal Information Disclosure in Auctions and the Handicap Auction,ML
+5.0,1979.0,Optimal Search for the Best Alternative,ML
+5.0,1988.0,Optimism Invites Deception,ML
+11.0,2006.0,Organization and Inequality in a Knowledge Economy,ML
+5.0,1957.0,Organization and Technology in Soviet Metalworking: Some Conditioning Factors,ML
+1.0,2017.0,PROGRAM EVALUATION AND CAUSAL INFERENCE WITH HIGH-DIMENSIONAL DATA,ML
+5.0,2013.0,PROXIMITY AND INVESTMENT,ML
+5.0,1948.0,Patent Policy,ML
+3.0,2009.0,Peers at Work,ML
+6.0,1911.0,Periodicals,ML
+9.0,1957.0,Periodicals,ML
+6.0,1921.0,Periodicals,ML
+9.0,1965.0,Periodicals,ML
+5.0,2016.0,Personalized Risk Assessments in the Criminal Justice System,ML
+5.0,1950.0,Planning Defense Production,ML
+5.0,1998.0,Power in a Theory of the Firm,ML
+5.0,2015.0,Prediction Policy Problems,ML
+3.0,1997.0,"Prediction, Optimization, and Learning in Repeated Games",ML
+9.0,1995.0,Preliminary Announcement of the Program,ML
+11.0,1983.0,Premiums for High Quality Products as Returns to Reputations,ML
+10.0,1964.0,Private versus Public Education: A Classical Economic Dispute,ML
+5.0,1975.0,Problems of Technology Absorption in Chinese Industry,ML
+4.0,2011.0,Procedural Analysis of Choice Rules with Applications to Bounded Rationality,ML
+5.0,1980.0,"Production Sets, Technological Knowledge, and R & D: Fragile and Overworked Constructs for Analysis of Productivity Growth?",ML
+4.0,1963.0,Production and Cost Functions: An Econometric Survey,ML
+5.0,1977.0,Productivity Change and Labor Absorption in Japanese Cotton Spinning 1891-1935*,ML
+5.0,2001.0,Productivity Differences,ML
+1.0,2003.0,Productivity Dynamics with Technology Choice: An Application to Automobile Assembly,ML
+7.0,2017.0,Productivity and Quality in Health Care: Evidence from the Dialysis Industry,ML
+5.0,2016.0,Productivity and Selection of Human Capital with Machine Learning,ML
+7.0,1991.0,Program of the 1990 North American Winter Meeting of the Econometric Society,ML
+1.0,1995.0,Program of the 1994 North American Summer Meeting of the Econometric Society,ML
+9.0,1996.0,Program of the 1996 Winter Meetings of the Econometric Society,ML
+11.0,1998.0,Program of the Fifteenth Latin American Meeting of the Econometric Society,ML
+6.0,1926.0,Progress and Problems of Australian Economics,ML
+5.0,2001.0,Projecting the Economic Impact of the Internet,ML
+12.0,1990.0,Property Rights and the Nature of the Firm,ML
+5.0,2004.0,"Property Rights to Technical Knowledge in Premodern Europe, 1300-1800",ML
+6.0,1939.0,Pure Capitalism and the Disappearance of the Middle Class,ML
+7.0,2010.0,RISK AND RATIONALITY: UNCOVERING HETEROGENEITY IN PROBABILITY DISTORTION,ML
+9.0,1986.0,"Rational Expectations Equilibria, Learning, and Model Specification",ML
+9.0,1918.0,Recent Developments in the British Labor Movement,ML
+8.0,1920.0,Recent Textbooks,ML
+4.0,2016.0,Recursive Lexicographical Search: Finding All Markov Perfect Equilibria of Finite State Directional Dynamic Games,ML
+10.0,1891.0,Relation of Trades-Unions to Apprentices,ML
+4.0,1956.0,"Report of the Ann Arbor Meeting, August 29-September 1, 1955",ML
+7.0,1963.0,"Report of the Ann Arbor Meeting, September 9-11, 1962",ML
+4.0,1938.0,"Report of the Atlantic City and Indianapolis Meetings, December 27-30, 1937",ML
+7.0,1952.0,"Report of the Boston Meeting, December 26-29, 1951",ML
+4.0,1953.0,"Report of the East Lansing Meeting, September 2-5, 1952",ML
+7.0,1956.0,"Report of the New York Meeting, December 27-30, 1955",ML
+10.0,1958.0,"Report of the Philadelphia Meeting, December 17-30, 1957",ML
+3.0,1943.0,Report of the Secretary for the Year 1942,ML
+9.0,1997.0,Reputation and Experimentation in Repeated Games With Two Long-Run Players,ML
+4.0,2003.0,Reputation and Survival: Learning in a Dynamic Signalling Model,ML
+5.0,1962.0,"Research and Development, New Products, and Productivity Change",ML
+10.0,1969.0,Response of Paid Student Subjects to Differential Behaviour of Robots in Bifurcated Duopoly Games,ML
+3.0,1986.0,Retail Pricing and Clearance Sales,ML
+7.0,1895.0,Risk as an Economic Factor,ML
+7.0,1997.0,"Risk, Financial Markets, and Human Capital in a Developing Country",ML
+3.0,1925.0,Round Table Conferences,ML
+3.0,1999.0,Rules of Thumb versus Dynamic Programming,ML
+8.0,2013.0,SPECULATION AND RISK SHARING WITH NEW FINANCIAL ASSETS,ML
+5.0,2002.0,Schumpeterian Growth Theory and the Dynamics of Income Inequality,ML
+4.0,2012.0,"Screening, Competition, and Job Design: Economic Origins of Good Jobs",ML
+4.0,2011.0,Search Dynamics in Consumer Choice under Time Pressure: An Eye- Tracking Study,ML
+12.0,2015.0,Self-Control at Work,ML
+4.0,2017.0,Sellers with Misspecified Models,ML
+1.0,1913.0,Sequence in Economics Courses at the University of Chicago,ML
+12.0,1977.0,Seventy-Fourth List of Doctoral Dissertations in Political Economy in American Universities and Colleges,ML
+12.0,1979.0,Seventy-Sixth List of Doctoral Dissertations in Political Economy in American Universities and Colleges,ML
+12.0,1982.0,Seventy-ninth List of Doctoral Dissertations in Political Economy in American Universities and Colleges,ML
+2.0,1954.0,Silhouette Functions of Short-Run Cost Behavior,ML
+5.0,1962.0,Simulation and Long-Range Planning for Resource Allocation,ML
+12.0,1960.0,Simulation of Individual and Group Behavior,ML
+12.0,1960.0,Simulation of the Industry and The Firm,ML
+12.0,1971.0,Sixty-Eighth List of Doctoral Dissertations in Political Economy in American Universities and Colleges,ML
+9.0,1964.0,Sixty-First List of Doctoral Dissertations in Political Economy in American Universities and Colleges,ML
+12.0,1972.0,Sixty-Ninth List of Doctoral Dissertations in Political Economy in American Universities and Colleges,ML
+12.0,1970.0,Sixty-Seventh List of Doctoral Dissertations in Political Economy in American Universities and Colleges,ML
+9.0,1969.0,Sixty-Sixth List of Doctoral Dissertations in Political Economy in American Universities and Colleges,ML
+8.0,1922.0,Skill,ML
+9.0,2010.0,Social Comparisons and Contributions to Online Communities: A Field Experiment on MovieLens,ML
+7.0,2009.0,Social Connections and Incentives in the Workplace: Evidence from Personnel Data,ML
+4.0,2010.0,Social Incentives in the Workplace,ML
+11.0,2007.0,Social Learning in One-Arm Bandit Problems,ML
+8.0,2005.0,Social Preferences and the Response to Incentives: Evidence from Personnel Data,ML
+11.0,1910.0,Social Productivity Versus Private Acquisition,ML
+6.0,1945.0,Sociological Elements in Veblen's Economic Theory,ML
+3.0,1930.0,Some Economic and Social Accompaniments of the Mechanization of Industry,ML
+12.0,1960.0,Some Institutional Aspects of the Wealth of Nations,ML
+1.0,1916.0,Some Larger Aspects of the Trade in War Materials,ML
+7.0,1911.0,Some Phases of Tax Reform in Illinois,ML
+10.0,1888.0,Some Precedents Followed by Alexander Der Hamilton,ML
+4.0,2017.0,Sorting Multidimensional Types: Theory and Application,ML
+11.0,1914.0,Specific Productivity,ML
+4.0,1994.0,"Stationarity, Rationalizability and Bargaining",ML
+9.0,2001.0,"Stochastic Algorithms, Symmetric Markov Perfect Equilibrium, and the 'Curse' of Dimensionality",ML
+6.0,2011.0,"Strike Three: Discrimination, Incentives, and Evaluation",ML
+11.0,2012.0,THE POLITICAL ECONOMY OF DEFORESTATION IN THE TROPICS,ML
+5.0,1972.0,TIPS and Technical Change in Classroom Instruction,ML
+6.0,2003.0,Team Incentives and Worker Heterogeneity: An Empirical Analysis of the Impact of Teams on Productivity and Participation,ML
+9.0,1996.0,Technical Change and Human-Capital Returns and Investments: Evidence from the Green Revolution,ML
+10.0,1961.0,Technical Change and the Rate of Imitation,ML
+2.0,2002.0,"Technological Acceleration, Skill Transferability, and the Rise in Residual Inequality",ML
+4.0,1999.0,Technological Change and Wages: An Interindustry Analysis,ML
+9.0,2003.0,Technological Change and the Stock Market,ML
+3.0,1999.0,Technological Revolutions,ML
+8.0,1986.0,Technology Adoption in the Presence of Network Externalities,ML
+3.0,1973.0,"Technology Diffusion, Substitution, and X-Efficiency",ML
+5.0,1968.0,Technology for Society,ML
+8.0,1976.0,"Technology, Growth, and History",ML
+11.0,2018.0,Temporary Protection and Technology Adoption,ML
+7.0,1966.0,Tentative Notes on a Two Sector Model with Induced Technical Progress,ML
+6.0,1986.0,Testing between Competing Models of Wage and Employment Determination in Unionized Markets,ML
+5.0,2017.0,Testing-Based Forward Model Selection,ML
+6.0,1903.0,The Adjustment of Crop Statistics: II,ML
+6.0,1993.0,The Aggregate Implications of Machine Replacement: Theory and Evidence,ML
+8.0,2015.0,The Anatomy of French Production Hierarchies,ML
+7.0,2015.0,The Baby Boom and World War II: A Macroeconomic Analysis,ML
+11.0,2016.0,The Berlin Stock Exchange in Imperial Germany: A Market for New Technology?,ML
+5.0,1951.0,The Co-Ordinates of Institutionalism,ML
+4.0,2009.0,The Conquest of South American Inflation,ML
+11.0,1921.0,The Corporation School and Its Place in a Scheme of Business Education,ML
+4.0,2002.0,"The Demand for Money, Financial Innovation, and the Welfare Cost of Inflation: An Analysis with Household Data",ML
+12.0,2008.0,The Demographic Transition and the Sexual Division of Labor,ML
+5.0,1990.0,The Dynamo and the Computer: An Historical Perspective on the Modern Productivity Paradox,ML
+2.0,1918.0,The Economic Function of the Common Law,ML
+4.0,1934.0,The Economic History of Modern Europe: Two New Manuals,ML
+6.0,1962.0,The Economic Implications of Learning by Doing,ML
+2.0,1947.0,The Economic Mind in American Civilization: A Review,ML
+1.0,1999.0,"The Economics of Career Concerns, Part I: Comparing Information Structures",ML
+6.0,1990.0,"The Economics of Modern Manufacturing: Technology, Strategy, and Organization",ML
+6.0,1967.0,The Economics of Technological Change and the Demise of the Sharecropper,ML
+5.0,2017.0,The Economist as Plumber,ML
+6.0,1939.0,The Effect of Modern Technological Conditions upon the Employment of Labor,ML
+9.0,2006.0,The Effect of School Choice on Participants: Evidence from Randomized Lotteries,ML
+8.0,1926.0,"The Effect of the American Embargo, 1807-1809, on the New England Cotton Industry",ML
+3.0,1924.0,The Emancipation of Economics,ML
+2.0,2012.0,The Environment and Directed Technical Change,ML
+2.0,2011.0,The Evolution of Cooperation in Infinitely Repeated Games: Experimental Evidence,ML
+12.0,1943.0,"The Evolutionist Revolt Against Classical Economics: II. In England--James Steuart, Richard Jones, Karl Marx",ML
+5.0,1960.0,The Evolving Low-Income Problems in Agriculture,ML
+10.0,1977.0,"The Existence of Futures Markets, Noisy Rational Expectations and Informational Externalities",ML
+8.0,1973.0,The Expansion of Firms,ML
+7.0,1967.0,The Explanation of Productivity Change,ML
+5.0,2014.0,The Future of US Economic Growth,ML
+5.0,2008.0,The Future of the IMF and the World Bank,ML
+11.0,1951.0,The Harvest Labor Market in California,ML
+10.0,1906.0,The History of Industrial Employment of Women in the United States: An Introductory Study,ML
+11.0,1968.0,The Impact of the Labor Market Upon the Design and Selection of Productive Techniques Within the Manufacturing Plant,ML
+6.0,1905.0,The Industrial Capacity of the German,ML
+3.0,1919.0,The Institutional Approach to Economic Theory,ML
+9.0,1897.0,The International Typographical Union,ML
+9.0,1994.0,"The Learning Curve, Market Dominance, and Predatory Pricing",ML
+2.0,1941.0,"The Meaning of ""Price Policy""",ML
+3.0,1931.0,The Modern Merger Movement--Discussion,ML
+9.0,2003.0,The Most Technologically Progressive Decade of the Century,ML
+9.0,1979.0,The Narrowing of Black-White Wage Differentials is Illusory,ML
+1.0,1911.0,The New Apprenticeship,ML
+9.0,1897.0,The New Theories of Economics,ML
+8.0,1932.0,The Newer Economics and the Control of Economic Activity,ML
+8.0,1993.0,The O-Ring Theory of Economic Development,ML
+9.0,1990.0,"The Origins of American Industrial Success, 1879-1940",ML
+2.0,1968.0,The Political Economy of Import-Substituting Industrialization in Latin America,ML
+7.0,1893.0,The Problem of Economic Education,ML
+5.0,1921.0,The Problem of Graduate Training in Personnel Administration,ML
+3.0,1950.0,The Process of Technological Innovation: The Launching of a New Scientific Industry,ML
+1.0,1954.0,The Production Function and the Theory of Capital,ML
+3.0,1985.0,"The Production Process in a Competitive Economy: Walrasian, Neo-Hobbesian, and Marxian Models",ML
+5.0,2006.0,"The Quiet Revolution That Transformed Women's Employment, Education, and Family",ML
+6.0,2018.0,The Race between Man and Machine,ML
+3.0,1910.0,The Rationality of Economic Activity,ML
+3.0,1915.0,The Relation of Education to Industrial Efficiency: The Study of the General Principles of Administration,ML
+2.0,1941.0,The Relationship between Total Output and Man-Hour Output in American Manufacturing Industry,ML
+5.0,1913.0,The Relationship of Scientific Management to Labor,ML
+12.0,1985.0,The Relevance of Quasi Rationality in Competitive Markets,ML
+6.0,1918.0,The Requisites of a National Food Policy,ML
+3.0,1912.0,The Restriction of Immigration,ML
+11.0,1917.0,The Revenue System of Kentucky: A Study in State Finance,ML
+10.0,2002.0,The Rise of Mass Consumption Societies,ML
+3.0,1916.0,The Role of Money in Economic Theory,ML
+5.0,1953.0,The Role of Technology in Economic Theory,ML
+2.0,1920.0,The Scope and Nature of the Labor Turnover Problem,ML
+10.0,2014.0,The Short-Run and Long-Run Effects of Behavioral Interventions: Experimental Evidence from Energy Conservation,ML
+3.0,1957.0,The Simple Analytics of Welfare Maximization,ML
+11.0,2003.0,The Skill Content of Recent Technological Change: An Empirical Exploration,ML
+3.0,1917.0,The Social and Economic Background of Woodrow Wilson,ML
+9.0,1976.0,The Specification of Adaptive Expectations in Continuous Time Dynamic Economic Models,ML
+5.0,1963.0,The Speed of Response of Firms to New Techniques,ML
+6.0,1913.0,The Spirit and Social Significance of Scientific Management,ML
+4.0,1948.0,The Supreme Court and the Architects of Economic Legislation,ML
+10.0,1959.0,The Tata Steel Strike: Some Dilemmas of Industrial Relations in a Developing Economy,ML
+12.0,1950.0,The Teaching of Undergraduate Economics,ML
+4.0,2009.0,The Technology Cycle and Inequality,ML
+6.0,1975.0,"The Theory of ""Screening,"" Education, and the Distribution of Income",ML
+9.0,1899.0,The Theory of the Leisure Class,ML
+6.0,1996.0,The Timing and Incidence of Exploratory Drilling on Offshore Wildcat Tracts,ML
+4.0,2015.0,The U-Shapes of Occupational Mobility,ML
+11.0,1948.0,The Union as a Monopoly,ML
+8.0,1933.0,The Unity of Veblen's Theoretical System,ML
+9.0,1945.0,The Use of Knowledge in Society,ML
+5.0,1940.0,The Variation in Wage-Ratios,ML
+4.0,2012.0,The Welfare Effects of Bundling in Multichannel Television Markets,ML
+1.0,2009.0,The Welfare Effects of Incentive Schemes,ML
+3.0,1976.0,The Xistence of X-Efficiency,ML
+3.0,2018.0,The “Pupil” Factory,ML
+3.0,1971.0,Theoretical Assumptions and Nonobserved Facts,ML
+6.0,1959.0,Theories of Decision-Making in Economics and Behavioral Science,ML
+3.0,1967.0,"Theories of the Firm: Marginalist, Behavioral, Managerial",ML
+12.0,1929.0,Thorstein Bundy Veblen: 1857-1929,ML
+6.0,1960.0,Titles of New Books,ML
+3.0,1926.0,Topics in Economic History,ML
+5.0,1974.0,Towards an Economic Theory of Replacement Investment,ML
+12.0,1923.0,Trade Union Development in Soviet Russia,ML
+3.0,1894.0,Trade Unionism and the Evolution of the Typesetting Machine,ML
+8.0,1962.0,Traditional Production in Primitive African Economies,ML
+7.0,1997.0,Training and Innovation in an Imperfect Labour Market,ML
+6.0,2018.0,Trucks without Bailouts,ML
+12.0,2002.0,Turnover of Used Durables in a Stationary Equilibrium: Are Older Goods Traded More?,ML
+9.0,1930.0,Unemployment and Technical Progress in Commercial Printing,ML
+6.0,1966.0,"Unemployment, Production Functions, and Effective Demand",ML
+6.0,1999.0,Unequal Treatment of Identical Agents in Cournot Equilibrium,ML
+8.0,1952.0,United Nations Primer for Development,ML
+11.0,1899.0,University Settlements: Their Point and Drift,ML
+12.0,1917.0,Unknown,ML
+6.0,1944.0,Unknown,ML
+6.0,1944.0,Unknown,ML
+9.0,1958.0,Unknown,ML
+10.0,1913.0,Unknown,ML
+6.0,1992.0,Unknown,ML
+6.0,1952.0,Unknown,ML
+6.0,1906.0,Unknown,ML
+3.0,1967.0,Unknown,ML
+10.0,1951.0,Unknown,ML
+8.0,1951.0,Unknown,ML
+5.0,2017.0,Using Causal Forests to Predict Treatment Heterogeneity: An Application to Summer Jobs,ML
+3.0,1943.0,Using Private Business Agencies to Achieve Public Goals in the Postwar World,ML
+5.0,1997.0,Using Randomization to Break the Curse of Dimensionality,ML
+3.0,2018.0,VERY SIMPLE MARKOV-PERFECT INDUSTRY DYNAMICS: THEORY,ML
+3.0,2012.0,VOTE-BUYING AND RECIPROCITY,ML
+1.0,1966.0,Vintage Capital Models and Econometric Production Functions,ML
+3.0,2018.0,WHO SHOULD BE TREATED? EMPIRICAL WELFARE MAXIMIZATION METHODS FOR TREATMENT CHOICE,ML
+3.0,1912.0,Wage Boards in England,ML
+2.0,1919.0,Wage Theory and Theories,ML
+11.0,2000.0,Walrasian Economics in Retrospect,ML
+5.0,2017.0,Wearable Technologies and Health Behaviors: New Data and New Methods to Understand Population Health,ML
+5.0,2017.0,Which Entrepreneurs are Coachable and Why?,ML
+5.0,2010.0,Why Do Firms in Developing Countries Have Low Productivity?,ML
+11.0,1998.0,Why Do New Technologies Complement Skills? Directed Technical Change and Wage Inequality,ML
+11.0,2001.0,Why Do Temporary Help Firms Provide Free General Skills Training?,ML
+12.0,1989.0,Why Do Wages Increase with Tenure? On-the-Job Training and Life-Cycle Wage Growth Observed within Firms,ML
+3.0,1920.0,Will Agricultural Prices Fall?,ML
+5.0,1996.0,With What Skills Are Computers a Complement?,ML
+8.0,1925.0,Workers' Rights and the Introduction of Machinery in the Men's Clothing Industry,ML
+10.0,1887.0,Workmen's Insurance in Germany,ML
+1.0,2004.0,Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities,ML
+10.0,2017.0,“Data Monkeys”,ML

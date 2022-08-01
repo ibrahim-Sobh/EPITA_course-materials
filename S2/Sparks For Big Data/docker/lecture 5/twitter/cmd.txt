@@ -1,0 +1,3 @@
+docker build -t twint_test .
+docker run -it --rm --name my-running-script -v "$PWD":/usr/src/myapp -w /usr/src/myapp twint_test python twint_test.py
+
